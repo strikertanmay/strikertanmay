@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**strikertanmay/strikertanmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Tanmay Mittal</h1>
 <h3 align="center">A Full Stack developer 🚀 from India, Currently working as a Software Engineer Intern 🙍🏽‍♂️ [@Headout](https://www.headout.com/)</h3>
 
@@ -14,4 +9,4 @@
 <a href="https://linkedin.com/in/tanmay-mittal-3784a8155" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tanmay-mittal-3784a8155" height="20" width="20" /></a>
 <a href="https://instagram.com/strikertanmay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="strikertanmay" height="20" width="20" /></a>
 </p>
--->
+
