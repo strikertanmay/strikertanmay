@@ -19,4 +19,3 @@
 <a href="https://instagram.com/strikertanmay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="strikertanmay" height="20"  /></a>
 </p>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=strikertanmay&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
