@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Mittal</h1>
-<h3 align="center">A Full Stack developer 🚀 from India, Currently working as a Software Engineer Intern 🙍🏽‍♂️ at Headout</h3>
+<h3 align="center">A Full Stack developer 🚀 from India, Currently working as a Software Engineer at Headout</h3>
 
 - 💬 Ask me about **anything, I am happy to help**
 
